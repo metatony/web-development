@@ -1,0 +1,23 @@
+
+p{
+    color: red;
+}
+header{
+    background-color: aqua;
+}
+li{
+    list-style: none;
+    color: blue;
+    cursor: pointer;
+    display: inline;
+}
+pre{
+    border: 3px dashed lightgreen;
+}
+
+h4{
+    text-align: center;
+    color: blueviolet;
+    border: 3px dashed red;
+    cursor: pointer;
+}
