@@ -1,0 +1,25 @@
+header{
+    text-align: center;
+    font-size: 30px;
+    width: 300px;
+    border: 3px black solid;
+    margin: auto;  
+}
+
+section{
+    margin-top: 50px;
+}
+
+.div1{
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 50px;
+    
+}
+
+img{
+    width: 350px;
+    height: 400px;
+    margin: 10px;
+}
+
