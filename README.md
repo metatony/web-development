@@ -4,9 +4,10 @@ In this repository i will be sharing my web development progress and projects
 
 # Tutorials
 > HTML
-> cSS
+> CSS
 
 Resources
+w3schools [https://www.w3schools.com/]
 
 
 # Projects
