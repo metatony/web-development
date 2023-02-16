@@ -7,7 +7,8 @@ In this repository i will be sharing my web development progress and projects
 > CSS
 
 Resources  
-[w3schools](https://www.w3schools.com/)
+- [w3schools](https://www.w3schools.com/)
+- [css- tricks](https://css-tricks.com/)
 
 
 # Projects
