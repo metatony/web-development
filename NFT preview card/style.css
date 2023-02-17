@@ -22,7 +22,9 @@ body{
 
 .card img{
     border-radius: 10px; 
+    
 }
+
 
 .text{
     
@@ -34,6 +36,10 @@ h5{
     font-size: 18px;
     margin-bottom: 1px;
     color: white;
+}
+
+h5:hover{
+    color: hsl(178, 100%, 50%);
 }
 
 p{
@@ -91,6 +97,9 @@ p{
 
 span{
     color: white;
+}
+span:hover{
+    color: hsl(178, 100%, 50%);
 }
 
 
