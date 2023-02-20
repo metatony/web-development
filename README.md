@@ -10,6 +10,7 @@ In this repository i will be sharing my web development progress and projects
 - [Qr code component](https://github.com/metatony/web-development/tree/master/project%201)
 - [NFT preview card](https://github.com/metatony/web-development/tree/master/NFT%20preview%20card)
 - [Interactive rating component](https://github.com/metatony/web-development/tree/master/Rating%20component)
+- [Stats review card component]()
 
 # Project Preview
 ![desktop-design](https://user-images.githubusercontent.com/98693285/219518858-5742dbd5-840a-4063-845b-13351cb01bbc.jpg)
