@@ -7,6 +7,7 @@ In this repository i will be sharing my web development progress and projects
 - [PROJECT RESOURCES](frontendmentor.io)
 
 # Projects
+- [Result summary component]()
 - [Qr code component](https://github.com/metatony/web-development/tree/master/project%201)
 - [NFT preview card](https://github.com/metatony/web-development/tree/master/NFT%20preview%20card)
 - [Interactive rating component](https://github.com/metatony/web-development/tree/master/Rating%20component)

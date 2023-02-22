@@ -1,0 +1,168 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Hanken Grotesk', sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 200px;
+}
+.card1{
+    position: relative;
+    left: 10px;
+    width: 260px;
+    height: 350px;
+    background: linear-gradient(
+        to bottom,
+        hsl(252, 100%, 67%),
+        hsl(241, 81%, 54%));
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 20px;
+}
+
+h6{
+    font-size: 14px;
+    color: hsl(241, 100%, 89%);
+    margin-bottom: 25px;
+}
+
+.result{
+    border-radius: 100%;
+    background: linear-gradient(
+    to bottom,
+    hsla(256, 72%, 46%, 1),
+    hsla(241, 72%, 46%, 0));
+    width: 120px;
+    height: 120px;
+    text-align: center;
+}
+
+h2{
+    font-weight: 700;
+    font-size: 45px;
+    color: white;
+    margin: 20px;
+    margin-bottom: 0px;
+
+}
+h2 + p{
+    margin-top: -2px;
+    font-size: 10px;
+    color: hsl(241, 100%, 89%);
+    font-weight: 600;
+}
+
+h5{
+    font-size: 20px;
+    margin-top: 20px;
+
+    color: white;
+    letter-spacing: 1px;
+    margin-bottom: 0px;
+}
+
+h5 + p{
+    width: 170px;
+    font-size: 12px;
+    text-align: center;
+    color: hsl(241, 100%, 89%)
+}
+
+.card2{
+    position: static;
+    background-color: white;
+    width: 260px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    font-size: 12px;
+    box-shadow: 1px 1px 16px -10px rgb(145, 136, 136);
+    border-bottom-right-radius: 20px;
+}
+
+
+.border{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px ;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    padding: 5px;
+    height: 30px;
+    text-align: center;
+    
+}
+
+.summary{
+    margin: 0px 25px 0px 35px;
+}
+
+.summary h6{
+    color: #303B59;
+}
+
+.one{
+    background-color: #FFF6F5;
+}
+.two{
+    background-color:#FFF6F5 ;
+}
+.three{
+    background-color: #F2FBFA;
+}
+.four{
+    background-color: #F2FBFA;
+}
+
+.icon{
+    display: flex;
+    gap: 10px;
+    color: hsl(0, 100%, 67%);
+    font-weight: 700;
+}
+
+span{
+    font-weight: 700;
+    color:#303B59 ;
+}
+.rate{
+    color: hsl(240, 14%, 60%);
+    font-weight: 700;
+}
+
+.two .icon{
+    color: hsl(39, 100%, 56%);
+}
+
+.three .icon{
+    color: hsl(166, 100%, 37%);
+}
+
+.four .icon{
+    color: hsl(234, 85%, 45%);
+}
+
+
+img{
+    width: 12px;
+}
+
+button{
+    margin-top: 10px;
+    width: 100%;
+    border-radius: 20px;
+    height: 38px;
+    border-style: none;
+    color: white;
+    background-color:#303B59 ;
+    font-size: 12px;
+}
+
+
