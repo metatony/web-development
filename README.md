@@ -16,10 +16,10 @@ In this repository i will be sharing my web development progress and projects
 - [Article preview component](https://github.com/metatony/web-development/tree/master/Article%20preview%20component)
 
 # Project Preview
+![desktop-design](https://user-images.githubusercontent.com/98693285/221365941-75e6b90b-47dc-4d0b-a522-4fab2abce23a.jpg)
+![desktop-design](https://user-images.githubusercontent.com/98693285/221365916-045e6fb8-e1e6-4bbf-a6ca-a0422b239b69.jpg)
 ![desktop-design](https://user-images.githubusercontent.com/98693285/220490469-79acb7a3-4fd7-427c-b895-0c8f04aa9731.jpg)
 ![desktop-design](https://user-images.githubusercontent.com/98693285/219518858-5742dbd5-840a-4063-845b-13351cb01bbc.jpg)
 ![desktop-design](https://user-images.githubusercontent.com/98693285/219684721-f38e45e9-a531-4ed6-8ef1-20a8c019b246.jpg)
 ![desktop-design](https://user-images.githubusercontent.com/98693285/219880058-87e9dfba-f52b-4c50-a926-fb0bf4f851cb.jpg)
 ![desktop-design](https://user-images.githubusercontent.com/98693285/220166154-face5fc4-1853-4706-a113-96365c496ea0.jpg)
-
-
