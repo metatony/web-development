@@ -12,6 +12,8 @@ In this repository i will be sharing my web development progress and projects
 - [NFT preview card](https://github.com/metatony/web-development/tree/master/NFT%20preview%20card)
 - [Interactive rating component](https://github.com/metatony/web-development/tree/master/Rating%20component)
 - [Stats review card component](https://github.com/metatony/web-development/tree/master/stats%20preview%20card%20component)
+- [3 column card component](https://github.com/metatony/web-development/tree/master/3-column-card)
+- [Article preview component](https://github.com/metatony/web-development/tree/master/Article%20preview%20component)
 
 # Project Preview
 ![desktop-design](https://user-images.githubusercontent.com/98693285/220490469-79acb7a3-4fd7-427c-b895-0c8f04aa9731.jpg)
