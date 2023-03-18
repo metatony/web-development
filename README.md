@@ -14,8 +14,10 @@ In this repository i will be sharing my web development progress and projects
 - [Stats review card component](https://github.com/metatony/web-development/tree/master/stats%20preview%20card%20component)
 - [3 column card component](https://github.com/metatony/web-development/tree/master/3-column-card)
 - [Article preview component](https://github.com/metatony/web-development/tree/master/Article%20preview%20component)
+- [Multistep form](https://github.com/metatony/web-development/tree/master/Multi%20step%20form)
 
 # Project Preview
+![active-states-step-1](https://user-images.githubusercontent.com/98693285/226125753-05a43557-ba73-4b0c-98c6-793a31c8650a.jpg)
 ![desktop-design](https://user-images.githubusercontent.com/98693285/221365941-75e6b90b-47dc-4d0b-a522-4fab2abce23a.jpg)
 ![desktop-design](https://user-images.githubusercontent.com/98693285/221365916-045e6fb8-e1e6-4bbf-a6ca-a0422b239b69.jpg)
 ![desktop-design](https://user-images.githubusercontent.com/98693285/220490469-79acb7a3-4fd7-427c-b895-0c8f04aa9731.jpg)
